@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpetch",
+        "uuid": 16491951,
+        "checksum": "453w5"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
